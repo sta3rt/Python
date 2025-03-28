@@ -1,0 +1,2 @@
+# Python
+ich lerne Python  
